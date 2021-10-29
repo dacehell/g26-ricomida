@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+.navbar-brand {
+  font-family: "lobster", cursive;
+  font-size: 29px;
+}
+.carousel-indicators {
+  top: 105%;
+}
+.carousel-indicators li {
+  background-color: #373a3c;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.underline {
+  text-decoration: underline;
+}
